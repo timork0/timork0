@@ -1,15 +1,15 @@
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Diego Muñoz </h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Diego Muñoz </h1>
 
-### 👨🏻‍💻 &nbsp;Sobre Mi
+### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;Soy un apasionado de explorar nuevas tecnologías y desarrollar soluciones innovadoras y eficientes.    
-💻 &nbsp;Me especializo en desarrollo web, configuración avanzada de servidores de Minecraft y desarrollo de bots de Telegram y Discord.  
-✍️ &nbsp;En mi tiempo libre, disfruto diseñando interfaces gráficas y creando experiencias únicas a través de UI/UX y diseño gráfico.  
-💬 &nbsp;Estoy abierto a colaborar en proyectos emocionantes o tener una gran conversación sobre tecnología.  
-🌐 &nbsp;No dudes en revisar algunos de mis trabajos en mi [Portafolio](https://diegomunoz.vercel.app/).  
-✉️ &nbsp;Si deseas ponerte en contacto, envíame un correo a **diegomunozzmunoz@gmail.com**. ¡Responderé lo antes posible!
+💡 &nbsp;I'm passionate about exploring new technologies and developing innovative, efficient solutions.  
+💻 &nbsp;I specialize in web development, advanced Minecraft server setup, and bot development for Telegram and Discord.  
+✍️ &nbsp;In my free time, I enjoy designing graphical interfaces and creating unique experiences through UI/UX and graphic design.  
+💬 &nbsp;I'm open to collaborating on exciting projects or having great conversations about technology.  
+🌐 &nbsp;Feel free to check out some of my work in my [Portfolio](https://diegomunoz.vercel.app/).  
+✉️ &nbsp;If you'd like to get in touch, send me an email at **diegomunozzmunoz@gmail.com**. I'll reply as soon as possible!
 
-### 🛠 &nbsp;Habilidades
+### 🛠 &nbsp;Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
@@ -25,14 +25,14 @@
 ![Astro](https://img.shields.io/badge/Astro-%230D74FF.svg?style=for-the-badge&logo=astro&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
-### 🗃 &nbsp;Bases de Datos
+### 🗃 &nbsp;Databases
 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
-### 🧰 &nbsp;Version Control y Herramientas
+### 🧰 &nbsp;Version Control and Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
